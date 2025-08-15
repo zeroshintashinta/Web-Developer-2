@@ -1,0 +1,18 @@
+/* CSS untuk tombol "Tambah Teman" di FB */
+.tambah-teman-btn {
+    background-color: #1877f2;
+    color: #fff;
+    border: none;
+    padding: 8px 16px;
+    border-radius: 6px;
+    font-size: 16px;
+    cursor: pointer;
+    font-weight: 500;
+    transition: background 0.2s;
+}
+
+.tambah-teman-btn:hover {
+    background-color: #165ec9;
+}
+
+
